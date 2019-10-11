@@ -9,3 +9,7 @@ and an address with the format PHONENUMBER@Carrier.com.
 To accomplish an mvp of this product I connected my email account to the google api. The email waits
 for these unformatted sms emails and sends them with proper formatting. In designing the ux for this service
 I chose to seperate picking a recipent email address and sending the address.
+
+https://www.youtube.com/watch?v=webqRA2s0jk
+
+[![TexEmail Demo](http://img.youtube.com/vi/watch?v=webqRA2s0jk/0.jpg)](http://www.youtube.com/watch?v=watch?v=webqRA2s0jk"TextEmail Demo")
