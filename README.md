@@ -1,6 +1,24 @@
-Link to Demo - https://www.youtube.com/watch?v=webqRA2s0jk
+<br />
+<p align="center">
+  
+  <h3 align="center"> Text Email </h3>
 
-Built With Node 
+  <p align="center">
+    An imessage interface to send emails via sms
+    <br />
+  <a href="https://www.youtube.com/watch?v=webqRA2s0jk"> Link to Demo </a>
+    
+  </p>
+  
+</p>
+
+### Built With
+
+* []() Node
+* []() Google API
+
+
+## About The Project
 
 TextEmail bridges the gap between sms and email communication by allowing users to send emails via sms.
 The idea is for a user to text a server with the email they want to send to a server that processes the sms data and uses your
